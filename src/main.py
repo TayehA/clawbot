@@ -1,5 +1,5 @@
 #region VEXcode Generated Robot Configuration
-import re
+
 from vex import *
 from userInstance import user_control
 from autonomous import autonomous
